@@ -1,0 +1,54 @@
+# Hardhat Dokümantasyonu
+
+Bu belge, Hardhat'i kullanmayı öğrenmek ve Hardhat ile ilgili temel kavramları anlamak için bir rehber sağlamaktadır.
+
+## İçindekiler
+
+1. [Giriş](#giriş)
+2. [Kurulum ve Yapılandırma](#kurulum-ve-yapılandırma)
+3. [Testler](#testler)
+4. [Akıllı Sözleşmeleri Derleme ve Dağıtma](#akıllı-sözleşmeleri-derleme-ve-dağıtma)
+5. [Görevler ve Otomasyon](#görevler-ve-otomasyon)
+6. [Harici Araçlar ve Eklentilerle Entegrasyon](#harici-araçlar-ve-eklentilerle-entegrasyon)
+7. [Sorun Giderme ve Sıkça Sorulan Sorular](#sorun-giderme-ve-sıkça-sorulan-sorular)
+8. [Kaynaklar ve İleri Okuma](#kaynaklar-ve-ileri-okuma)
+
+## 1. Giriş
+
+Hardhat, Ethereum akıllı sözleşme geliştirme için güçlü bir geliştirme ortamıdır. Bu bölümde Hardhat'in ne olduğunu ve nasıl kullanıldığını genel bir bakış açısıyla anlatacağız.
+
+## 2. Kurulum ve Yapılandırma
+
+Hardhat'i nasıl kuracağınızı ve bir projeyi nasıl yapılandıracağınızı öğreneceğiniz bölüm. Adım adım talimatlar ve örneklerle size rehberlik edeceğiz.
+
+## 3. Testler
+
+Akıllı sözleşmelerinizi test etmek için Hardhat'in sunduğu test çerçevesini kullanmayı öğreneceğiniz bölüm. Test yazma, testleri çalıştırma ve sonuçları yorumlama konularında size rehberlik edeceğiz.
+
+## 4. Akıllı Sözleşmeleri Derleme ve Dağıtma
+
+Hardhat ile akıllı sözleşmeleri nasıl derleyebileceğinizi ve farklı ağlara nasıl dağıtabileceğinizi öğreneceğiniz bölüm. Derleme seçenekleri, kontratlarla etkileşim kurma ve kontratları canlı ağlara dağıtma gibi konuları kapsayacağız.
+
+## 5. Görevler ve Otomasyon
+
+Hardhat'in görev sistemi ve otomatikleştirme yetenekleri hakkında bilgi edineceğiniz bölüm. Kendi özel görevlerinizi nasıl oluşturabileceğinizi ve yaygın görevleri nasıl çalıştıracağınızı öğreneceksiniz.
+
+## 6. Harici Araçlar ve Eklentilerle Entegrasyon
+
+Hardhat'i diğer popüler geliştirme araçlarıyla nasıl entegre edebileceğinizi öğreneceğiniz bölüm. Test kapsamı araçları, kod kapsamı araçları, denetim araçları ve diğer ilgili eklentiler hakkında bilgi alacaksınız.
+
+## 7. Sorun Giderme ve Sıkça Sorulan Sorular
+
+Hardhat kullanırken karşılaşabileceğiniz yaygın sorunları ve bunları nasıl gidermeniz gerektiğini bulacağınız bölüm. Ayrıca sıkça sorulan soruların cevaplarına da erişebilirsiniz.
+
+## 8. Kaynaklar ve İleri Okuma
+
+Hardhat ile ilgili daha fazla kaynak, resmi belgeler, örnek projeler ve topluluk forumlarına erişim sağlayabileceğiniz bölüm. Hardhat'i daha derinlemesine keşfetmek ve geliştirme deneyiminizi geliştirmek için bu kaynakları kullanabilirsiniz.
+
+---
+
+Bu belge Hardhat kullanımına genel bir giriş sağlamayı amaçlamaktadır. Hardhat ile geliştirme sürecinde size rehberlik etmek ve en iyi uygulamaları öğretmek için ek kaynaklara başvurmanızı öneririz.
+
+Soru ve düşüncelerinizi aşağıdaki yorumlar bölümünde paylaşmaktan çekinmeyin. İyi geliştirmeler!
+
+#Hardhat #AkıllıSözleşme #Ethereum #Blockchain #Geliştirme #DApp #Geliştirici #Kodlama
